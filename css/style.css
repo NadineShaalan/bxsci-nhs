@@ -1,6 +1,4 @@
-body{background-color: #2ECC71}
-
-
+body{background-color: #2ECC71;}
 section{
 	clear:both;
 }
@@ -8,10 +6,10 @@ nav{
 	position:fixed;
 	margin-top: 10%;
 	border:10px solid blue;
+	padding-bottom:100%;
 }
 header{
 	position: fixed;
-	
 	line-height:5%;
 	border:10px solid red;
 
@@ -21,5 +19,7 @@ img{
 	width:80%;
 	float:right;
 }
-
+section{
+	float:right;
+}
 
