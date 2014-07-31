@@ -1,8 +1,4 @@
-body{
-	background-image: url('../images/pretty.jpg');
-	background-color: (46,204,113,.5)
 
-}
 nav{
 	position:fixed;
 	/*border:10px solid blue;*/
@@ -51,6 +47,13 @@ section a{
 	border: 5px solid white;
 	font-size: 2em;
 	color:white;
+
+}
+body{
+	
+	background-image: url('../images/bxsci.jpg');
+	-webkit-filter: opacity(50%);
+	background-color: #2ECC71;
 
 }
 
