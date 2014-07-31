@@ -1,42 +1,44 @@
-body{background-color: #34B67A;}
-/*	position: fixed;
-	line-height:5%;
-	border:10px solid red;
-	font-size: .5em;
-	margin:-2%;
-	background-color:aqua;
-	font-family: verdana;
+body{
+	background-image: url('../images/pretty.jpg');
+	background-color: (46,204,113,.5)
 
-}*/
+}
 nav{
 	position:fixed;
-	border:10px solid blue;
+	/*border:10px solid blue;*/
 	padding-bottom:100%;
 	padding-left: 1%;
-	background-color:aqua;
+	background-color:#191A20;
 	margin: -3%;
 	/*margin-top:7%;*/
 	font-family: verdana;
+	width:200px;
+	color:white;
 
 }
 nav a{
 	text-decoration: none;
 	color:black;
+	color:white;
 }
 nav ul{
 	list-style-type: none;
+	line-height: 400%
 }
 .header{
-	border: 2px solid red;
-	
+	/*border: 2px solid red;*/
 	padding:10%;
 	font-size: 4%;
 
 }
 section{
 	float:right;
-	border:10px solid green;
+	/*border:10px solid green;*/
 	margin-right: 15%;
+	max-width: 90%;
+	background-image: url('lighthouse.jpg');
+	color:white;
+
 
 }
 section p{
@@ -46,8 +48,10 @@ section p{
 }
 section a{
 	text-decoration: none;
-	color:black;
-	border: 5px solid black;
+	border: 5px solid white;
 	font-size: 2em;
+	color:white;
+
 }
+
 
